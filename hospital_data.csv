@@ -1,0 +1,201 @@
+patient_id,heart_rate,spo2,iv_level,status,alert
+P1,70,93,48,Normal,Normal
+P2,64,99,53,Normal,Normal
+P3,119,85,28,Critical,Low Oxygen
+P4,91,90,89,Normal,Normal
+P5,74,89,72,Critical,Low Oxygen
+P6,88,91,33,Normal,Normal
+P7,73,91,51,Normal,Normal
+P8,77,85,51,Critical,Low Oxygen
+P9,68,86,100,Critical,Low Oxygen
+P10,118,88,75,Critical,Low Oxygen
+P11,113,99,20,Normal,High Heart Rate
+P12,113,90,88,Normal,High Heart Rate
+P13,87,99,28,Normal,Normal
+P14,80,92,94,Normal,Normal
+P15,65,87,60,Critical,Low Oxygen
+P16,77,89,54,Critical,Low Oxygen
+P17,95,88,45,Critical,Low Oxygen
+P18,71,96,47,Normal,Normal
+P19,72,97,77,Normal,Normal
+P20,74,88,16,Critical,Low Oxygen
+P21,64,99,69,Normal,Normal
+P22,99,92,20,Normal,Normal
+P23,62,98,38,Normal,Normal
+P24,76,87,60,Critical,Low Oxygen
+P25,68,90,83,Normal,Normal
+P26,79,95,88,Normal,Normal
+P27,89,100,10,Normal,Low IV
+P28,79,94,77,Normal,Normal
+P29,76,89,50,Critical,Low Oxygen
+P30,75,88,26,Critical,Low Oxygen
+P31,96,94,56,Normal,Normal
+P32,112,96,99,Normal,High Heart Rate
+P33,96,99,65,Normal,Normal
+P34,78,92,30,Normal,Normal
+P35,79,94,44,Normal,Normal
+P36,67,95,65,Normal,Normal
+P37,70,100,97,Normal,Normal
+P38,104,99,49,Normal,Normal
+P39,101,100,43,Normal,Normal
+P40,68,100,57,Normal,Normal
+P41,94,94,96,Normal,Normal
+P42,69,100,31,Normal,Normal
+P43,67,86,18,Critical,Low Oxygen
+P44,78,100,77,Normal,Normal
+P45,87,85,57,Critical,Low Oxygen
+P46,63,90,74,Normal,Normal
+P47,82,93,97,Normal,Normal
+P48,111,98,78,Normal,High Heart Rate
+P49,63,89,69,Critical,Low Oxygen
+P50,78,98,62,Normal,Normal
+P51,76,99,91,Normal,Normal
+P52,110,100,29,Normal,Normal
+P53,102,90,69,Normal,Normal
+P54,90,89,94,Critical,Low Oxygen
+P55,99,86,20,Critical,Low Oxygen
+P56,85,86,59,Critical,Low Oxygen
+P57,116,97,81,Normal,High Heart Rate
+P58,103,85,87,Critical,Low Oxygen
+P59,85,99,85,Normal,Normal
+P60,85,92,69,Normal,Normal
+P61,82,100,64,Normal,Normal
+P62,60,87,84,Critical,Low Oxygen
+P63,69,93,37,Normal,Normal
+P64,99,88,11,Critical,Low Oxygen
+P65,112,94,42,Normal,High Heart Rate
+P66,100,89,82,Critical,Low Oxygen
+P67,88,90,99,Normal,Normal
+P68,112,90,86,Normal,High Heart Rate
+P69,95,91,59,Normal,Normal
+P70,90,99,57,Normal,Normal
+P71,73,90,44,Normal,Normal
+P72,69,96,75,Normal,Normal
+P73,75,97,90,Normal,Normal
+P74,93,94,26,Normal,Normal
+P75,105,88,29,Critical,Low Oxygen
+P76,93,93,18,Normal,Low IV
+P77,110,87,84,Critical,Low Oxygen
+P78,107,87,80,Critical,Low Oxygen
+P79,89,100,100,Normal,Normal
+P80,72,93,10,Normal,Low IV
+P81,103,95,32,Normal,Normal
+P82,81,90,43,Normal,Normal
+P83,73,93,53,Normal,Normal
+P84,95,94,43,Normal,Normal
+P85,65,92,46,Normal,Normal
+P86,63,99,18,Normal,Low IV
+P87,92,89,79,Critical,Low Oxygen
+P88,90,90,62,Normal,Normal
+P89,85,88,94,Critical,Low Oxygen
+P90,61,95,26,Normal,Normal
+P91,75,91,52,Normal,Normal
+P92,83,96,17,Normal,Low IV
+P93,85,87,56,Critical,Low Oxygen
+P94,110,92,69,Normal,Normal
+P95,82,93,73,Normal,Normal
+P96,117,96,31,Normal,High Heart Rate
+P97,71,86,30,Critical,Low Oxygen
+P98,102,94,68,Normal,Normal
+P99,78,90,28,Normal,Normal
+P100,113,92,61,Normal,High Heart Rate
+P101,96,96,61,Normal,Normal
+P102,108,90,18,Normal,Low IV
+P103,99,99,57,Normal,Normal
+P104,90,97,81,Normal,Normal
+P105,61,98,97,Normal,Normal
+P106,65,95,78,Normal,Normal
+P107,78,96,56,Normal,Normal
+P108,114,85,31,Critical,Low Oxygen
+P109,71,94,68,Normal,Normal
+P110,91,92,22,Normal,Normal
+P111,98,85,42,Critical,Low Oxygen
+P112,68,99,40,Normal,Normal
+P113,94,92,46,Normal,Normal
+P114,68,85,86,Critical,Low Oxygen
+P115,88,91,65,Normal,Normal
+P116,69,87,58,Critical,Low Oxygen
+P117,83,90,63,Normal,Normal
+P118,117,95,24,Normal,High Heart Rate
+P119,87,87,91,Critical,Low Oxygen
+P120,60,92,75,Normal,Normal
+P121,107,88,100,Critical,Low Oxygen
+P122,74,89,87,Critical,Low Oxygen
+P123,74,93,12,Normal,Low IV
+P124,98,87,97,Critical,Low Oxygen
+P125,99,94,92,Normal,Normal
+P126,79,86,47,Critical,Low Oxygen
+P127,87,97,64,Normal,Normal
+P128,76,88,44,Critical,Low Oxygen
+P129,62,93,82,Normal,Normal
+P130,62,99,56,Normal,Normal
+P131,73,87,53,Critical,Low Oxygen
+P132,61,93,27,Normal,Normal
+P133,104,96,49,Normal,Normal
+P134,79,97,65,Normal,Normal
+P135,103,90,33,Normal,Normal
+P136,76,87,41,Critical,Low Oxygen
+P137,114,91,99,Normal,High Heart Rate
+P138,95,97,53,Normal,Normal
+P139,119,93,97,Normal,High Heart Rate
+P140,97,97,95,Normal,Normal
+P141,74,90,85,Normal,Normal
+P142,80,87,15,Critical,Low Oxygen
+P143,104,90,80,Normal,Normal
+P144,68,98,70,Normal,Normal
+P145,95,86,56,Critical,Low Oxygen
+P146,72,93,26,Normal,Normal
+P147,105,92,25,Normal,Normal
+P148,102,87,79,Critical,Low Oxygen
+P149,75,88,13,Critical,Low Oxygen
+P150,60,99,74,Normal,Normal
+P151,112,88,75,Critical,Low Oxygen
+P152,106,96,82,Normal,Normal
+P153,85,100,22,Normal,Normal
+P154,63,92,70,Normal,Normal
+P155,62,95,29,Normal,Normal
+P156,67,87,95,Critical,Low Oxygen
+P157,100,100,89,Normal,Normal
+P158,113,85,64,Critical,Low Oxygen
+P159,85,90,42,Normal,Normal
+P160,93,94,77,Normal,Normal
+P161,82,98,24,Normal,Normal
+P162,92,97,27,Normal,Normal
+P163,114,94,77,Normal,High Heart Rate
+P164,60,99,40,Normal,Normal
+P165,93,95,72,Normal,Normal
+P166,62,94,76,Normal,Normal
+P167,92,85,58,Critical,Low Oxygen
+P168,116,100,48,Normal,High Heart Rate
+P169,77,91,33,Normal,Normal
+P170,110,94,83,Normal,Normal
+P171,95,93,17,Normal,Low IV
+P172,75,88,27,Critical,Low Oxygen
+P173,73,92,29,Normal,Normal
+P174,76,86,94,Critical,Low Oxygen
+P175,66,98,67,Normal,Normal
+P176,120,97,62,Normal,High Heart Rate
+P177,61,97,48,Normal,Normal
+P178,108,87,26,Critical,Low Oxygen
+P179,117,85,80,Critical,Low Oxygen
+P180,64,88,17,Critical,Low Oxygen
+P181,103,91,49,Normal,Normal
+P182,91,85,87,Critical,Low Oxygen
+P183,115,92,73,Normal,High Heart Rate
+P184,85,96,52,Normal,Normal
+P185,93,87,40,Critical,Low Oxygen
+P186,118,85,85,Critical,Low Oxygen
+P187,81,89,38,Critical,Low Oxygen
+P188,101,87,23,Critical,Low Oxygen
+P189,108,85,23,Critical,Low Oxygen
+P190,117,92,55,Normal,High Heart Rate
+P191,102,90,22,Normal,Normal
+P192,112,99,42,Normal,High Heart Rate
+P193,89,88,86,Critical,Low Oxygen
+P194,101,97,75,Normal,Normal
+P195,74,95,44,Normal,Normal
+P196,113,99,66,Normal,High Heart Rate
+P197,106,98,21,Normal,Normal
+P198,92,90,10,Normal,Low IV
+P199,86,85,17,Critical,Low Oxygen
+P200,120,90,40,Normal,High Heart Rate
